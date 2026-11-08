@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://mramirezraul71.github.io/celdilla-guias/sitemap.xml
+Sitemap: https://guias.celdilla.com/sitemap.xml
