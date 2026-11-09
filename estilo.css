@@ -40,4 +40,6 @@ dd { margin: 0.3rem 0 0 0; }
 .fuentes { font-size: 0.9rem; }
 .mock, .borrador { background: var(--mock); padding: 0.6rem 0.8rem; font-weight: 600; }
 .borrador { background: var(--aviso); }
+.kit { border: 1px solid var(--borde); border-radius: 0.4rem; padding: 0.2rem 1rem; margin: 1.5rem 0; }
+.kit h2 { margin-top: 0.8rem; }
 footer { margin-top: 3rem; border-top: 1px solid var(--borde); padding-top: 1rem; }
